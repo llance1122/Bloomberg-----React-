@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "MYSQL_HOST": "your-server.mysql.database.azure.com",
+    "MYSQL_PORT": "3306",
+    "MYSQL_USER": "bloomberg_admin",
+    "MYSQL_PASSWORD": "你的密碼",
+    "MYSQL_DATABASE": "booking",
+    "MYSQL_SSL": "true"
+  }
+}
